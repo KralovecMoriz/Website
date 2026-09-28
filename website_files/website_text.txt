@@ -1,0 +1,3 @@
+Games Hub ist eine einfache Spiele-Webseite, auf der verschiedene Spiele an einem Ort gesammelt sind. Besucher können zwischen spannenden Rätseln, Weltraum-Abenteuern, Fußball-Action und einem Memory-Spiel wählen und direkt auf „Spielen“ klicken.
+
+Die Spiele sind NICHT aus programmiert.
